@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Kuhuk. Software Engineer who is mostly into developing Android apps.
+I am Kuhuk. A software engineer who is mostly into developing Android apps.
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I am a science communicator with majors in astronomy sciences. (Yeah, you can call me an astrophile too)😝
 - 🌱 I’m currently learning: Kotlin, React.js
