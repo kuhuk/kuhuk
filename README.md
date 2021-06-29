@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+I am Kuhuk. Software Engineer who is mostly into developing Android apps.
+- 😄 Pronouns: she/her
+- ⚡ Fun fact: I am a science communicator with majors in astronomy sciences. (Yeah, you can call me an astrophile too)😝
+- 🌱 I’m currently learning: Kotlin, React.js
+- 💬 Ask me about: Android apps development, anything astronomy 🔭
+
 <!--
 **kuhuk/kuhuk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
