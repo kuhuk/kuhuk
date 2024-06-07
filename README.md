@@ -1,11 +1,8 @@
 ### Hi, I am Kuhuk 👋
-
-My portfolio - https://www.kuhuk.dev
-
-I am Kuhuk. A software engineer who is mostly into developing Android apps.
+A software engineer who is mostly into developing Android apps.
+- 👾 My website - https://www.kuhuk.dev
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: I am a science communicator with majors in astronomy sciences. (Yeah, you can call me an astrophile too)😝
-- 💬 Ask me about: Android apps development, anything astronomy 🔭
+- ⚡ Fun fact: I own a telescope and I do amateur astronomy
 - 📫 Projects-
   1. Internshala Android App - https://play.google.com/store/apps/details?id=com.internshala.app
   2. Tak Android App - https://play.google.com/store/apps/details?id=com.indiatoday.mobiletak
