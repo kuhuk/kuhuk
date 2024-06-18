@@ -1,5 +1,5 @@
 ### Hi, I am Kuhuk 👋
-A software engineer who is mostly into developing Android apps.
+a software engineer who is mostly into developing Android apps.
 - 👾 My website - https://www.kuhuk.dev
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I own a telescope and I do amateur astronomy
