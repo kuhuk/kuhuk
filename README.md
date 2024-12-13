@@ -4,11 +4,13 @@ a software engineer who is mostly into developing Android apps.
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I own a telescope and I do amateur astronomy
 - 📫 Projects-
-  1. Internshala Android App - https://play.google.com/store/apps/details?id=com.internshala.app
-  2. Tak Android App - https://play.google.com/store/apps/details?id=com.indiatoday.mobiletak
+  1. News18 Android App - https://play.google.com/store/apps/details?id=com.divum.ibn&hl=en_IN
+  2. CNBC Android App - https://play.google.com/store/apps/details?id=com.network18.cnbctv18&hl=en_IN
+  3. Internshala Android App - https://play.google.com/store/apps/details?id=com.internshala.app
+  4. Tak Android App - https://play.google.com/store/apps/details?id=com.indiatoday.mobiletak
  
 ## Skillset
-Mobile development: `Android` `Kotlin` `Java` `Jetpack Compose` `KMM`
+Mobile development: `Android` `Jetpack Compose` `Kotlin` `Java`  `KMM`
 
 Frontend: `React.js` `JavaScript` `CSS` `HTML`
 
